@@ -1,5 +1,4 @@
 "use strict";
-
 const colfilms = +prompt("Сколько фильмов Вы просмотрели?", "Укажите цифру");
 
 const persDB = {
